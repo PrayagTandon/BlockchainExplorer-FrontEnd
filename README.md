@@ -1,12 +1,6 @@
 # Project done by:
 
-- Name: Anoosh Koneru
-- Student ID: 101579792
-- Email: 101579792@georgebrown.ca
-
 - Name: Prayag Tandon
-- Student ID: 101571637
-- Email: 101571637@georgebrown.ca
 
 ## Ethereum Blockchain Explorer Landing Page
 
